@@ -4,13 +4,13 @@ Role also known as programmer or software engineer, requires a deep level of tec
 
 | Level | Seniority | Position |
 | :---: | :---: | :---: |
-| 1 | Junior | [D1 - Jr. Software Engineer](#d1---developer-1) |
-| 2 | Junior | [D2 - Software Engineer I](#d2---developer-2) |
-| 3 | Junior | [D3 - Software Engineer II](#d3---developer-3) |
-| 4 | Senior | [D4 - Sr. Software Engineer](#d4---developer-4) |
-| 5 | Senior | [D5 - Staff Software Engineer](#d5---developer-5) |
-| 6 | Senior | [D6 - Sr. Staff Software Engineer](#d6---developer-6) |
-| 7 | Senior | [D7 - Principal Engineer ](#d7---developer-7) |
+| 1 | Junior | [D1 - Jr. Software Engineer](#d1---jr-software-engineer) |
+| 2 | Junior | [D2 - Software Engineer I](#d2---software-engineer-i) |
+| 3 | Junior | [D3 - Software Engineer II](#d3---software-engineer-ii) |
+| 4 | Senior | [D4 - Sr. Software Engineer](#d4---sr-software-engineer) |
+| 5 | Senior | [D5 - Staff Software Engineer](#d5---staff-software-engineer) |
+| 6 | Senior | [D6 - Sr. Staff Software Engineer](#d6---sr-staff-software-engineer) |
+| 7 | Senior | [D7 - Principal Engineer ](#d7---principal-software-engineer) |
 
 ## D1 - Jr. Software Engineer
 
