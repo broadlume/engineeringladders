@@ -52,6 +52,9 @@ Role also known as programmer or software engineer, requires a deep level of tec
 * **Challenges**: challenges the team processes, looking for ways to improve them
 * **Team**: makes an impact on the whole team, not just on specific parts of it
 
+> **Note**
+> As a member of our team this is when an engineer has the option to join the Guild and is expected to be a regular interviewer for incoming engineers.
+
 ## D5 - Staff Software Engineer
 
 ![Developer 5](/charts/developer-5.png)
