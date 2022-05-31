@@ -17,13 +17,13 @@ The framework has 4 different ladders:
 
 | Level | Seniority | [Developer](Developer.md) | [Engineering Manager](EngineeringManager.md) |
 | :---: | :---: | :---: |  :---: |
-| 1 | Junior | [D1](Developer.md#d1---developer-1) | |
-| 2 | Junior | [D2](Developer.md#d2---developer-2) | |
-| 3 | Junior | [D3](Developer.md#d3---developer-3) | |
-| 4 | Senior | [D4](Developer.md#d4---developer-4) | |
-| 5 | Senior | [D5](Developer.md#d5---developer-5) | [EM5](EngineeringManager.md#em5---engineering-manager-5) |
-| 6 | Senior | [D6](Developer.md#d6---developer-6) | [EM6](EngineeringManager.md#em6---engineering-manager-6) |
-| 7 | Senior | [D7](Developer.md#d7---developer-7) | [EM7](EngineeringManager.md#em7---engineering-manager-7) |
+| 1 | Junior | [D1](Developer.md#d1---jr-software-engineer) | |
+| 2 | Junior | [D2](Developer.md#d2---software-engineer-i) | |
+| 3 | Junior | [D3](Developer.md#d3---software-engineer-ii) | |
+| 4 | Senior | [D4](Developer.md#d4---sr-software-engineer) | |
+| 5 | Senior | [D5](Developer.md#d5---staff-software-engineer) | [EM5](EngineeringManager.md#em5---engineering-manager-5) |
+| 6 | Senior | [D6](Developer.md#d6---sr-staff-software-engineer) | [EM6](EngineeringManager.md#em6---engineering-manager-6) |
+| 7 | Senior | [D7](Developer.md#d7---principal-software-engineer) | [EM7](EngineeringManager.md#em7---engineering-manager-7) |
 
 (click on position name for more details)
 
