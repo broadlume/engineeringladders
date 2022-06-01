@@ -23,7 +23,7 @@ The framework has 4 different ladders:
 | 4 | Senior | [D4 - Sr. Software Engineer](Developer.md#d4---sr-software-engineer) | |
 | 5 | Senior | [D5 - Staff Software Engineer](Developer.md#d5---staff-software-engineer) | [EM5](EngineeringManager.md#em5---engineering-manager-5) |
 | 6 | Senior | [D6 - Sr. Staff Software Engineer](Developer.md#d6---sr-staff-software-engineer) | [EM6](EngineeringManager.md#em6---engineering-manager-6) |
-| 7 | Senior | [D7 - Prinicipal Software Engineer](Developer.md#d7---principal-software-engineer) | [EM7](EngineeringManager.md#em7---engineering-manager-7) |
+| 7 | Senior | [D7 - Principal Software Engineer](Developer.md#d7---principal-software-engineer) | [EM7](EngineeringManager.md#em7---engineering-manager-7) |
 
 (click on position name for more details)
 
